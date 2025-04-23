@@ -5,4 +5,4 @@ Storage Management System using Ordered and Unordered Collections Assignment 4
   
 C++ program that models a Storage Management System for organizing and retrieving physical objects efficiently  
   
-Run the program and follow the prompted instructions  
+Run the program and select choices based on the number next to the desired choice.
